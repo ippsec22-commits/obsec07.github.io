@@ -38,7 +38,7 @@
     },
     {
       "severity": "medium",
-      "title": "Internal disclosure of learning materials"
+      "title": "Broken access control"
     },
     {
       "severity": "medium",
